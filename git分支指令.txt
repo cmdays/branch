@@ -1,0 +1,7 @@
+git branch 查看分支
+git branch dev(分支名) 创建一条分支
+git branch -d dev 删除分支
+
+切换分支  git checkout dev (分支名)
+merge 分支合并
+merge branch 把名为branch的分支合并到当前分支上
